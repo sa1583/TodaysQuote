@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "279140622992",
+    "project_id": "todaysquote-83ad8",
+    "storage_bucket": "todaysquote-83ad8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:279140622992:android:34bf2c89b6fe9415482e15",
+        "android_client_info": {
+          "package_name": "fastcampus.aop.part2.todaysquote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "279140622992-r2m1841i7u46rlhvtqh3tr98ulfnokd9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7f-8WkTG4jdaMNsvPWh409fdwu5KI5Us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "279140622992-r2m1841i7u46rlhvtqh3tr98ulfnokd9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
